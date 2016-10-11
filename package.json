@@ -1,0 +1,16 @@
+{
+  "name": "rxhp",
+  "version": "1.0.0",
+  "description": "RX Http Pooling",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "0.8.22"
+  }
+}
